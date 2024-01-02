@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.col-3{
+    border: 1px solid black;
+    height: 30vh;
+    width: 25%;
+    border: none;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.list{
+    background-color: rgb(112, 163, 191);
+    width: 15%;
+    border: 1px solid black;
+}
+.Program h1{
+    font-weight: bold;
+    padding: 10px;
+    font-size: 50px;
+
+}
+.employee{
+    display: flex;
+    position: relative;
+    margin-left: 30%;
+    padding: 10px;
+}
+.num h1{
+    padding: 2px;
+    margin: 10px;
+    color: white;
+}
+.card-img-top{
+    width: 70%;
+    height: 35vh;
+   margin: auto;
+   display: block;
+   padding: 20px;
+}
+
+.col-4{
+    border: 1px solid black;
+    height: 20vh;
+    border: none;
+}
+
+.col-3{
+    width: 25%;
+     border:1px solid black;
+     height: 50vh;
+   border: none;
+}
+.col-3 img{
+    height: 50vh;
+    width: 100%;
+}
+.col-4{
+    border: 1px solid black;
+    height: 20vh;
+    border: none;
+}
+
+.card{
+    width: 50%;
+}
+
+#conti{
+    background-image: url("image/i7.avif");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 60vh;
+}
